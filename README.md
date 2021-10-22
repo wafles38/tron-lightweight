@@ -7,8 +7,8 @@ Tip: To do this without downloading my scripts, all you need to do is delete fil
 The only problem is that you would have to be present during the process, since there will be a lot of "file is missing" errors
 
 To do:
--Transfer progress made from my laptop to my pc
--Improve this description
+- Transfer progress made from my laptop to my pc
+- Improve this description
 
 Original description from original repo:
 
