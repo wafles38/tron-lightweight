@@ -1,6 +1,6 @@
 An adaptation of the tronscript designed for devices with limited storage (such as tablets) and usb drives, that aims to be less than 50mbs. This will have less features and will be much less efective at removing viruses. A system restore point won't be made in order to save on storage, and bug fixing will be more difficult since there are no logging features.
 
-(A download link is not available, yet.)
+(A download link is not available, yet. If you are smart enough you can transfer my work here to your tron scripts installation)
 
 Tip: To do this without downloading my scripts, all you need to do is delete files, such as 
 
