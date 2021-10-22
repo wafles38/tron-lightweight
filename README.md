@@ -1,3 +1,15 @@
+An adaptation of the tronscript designed for devices with limited storage (such as tablets) and usb drives, that aims to be less than 50mbs. This will have less features and will be much less efective at removing viruses. A system restore point won't be made in order to save on storage, and bug fixing will be more difficult since there are no logging features.
+
+(A download link is not available, yet.)
+
+Tip: To do this without downloading my scripts, all you need to do is delete files, such as 
+The only problem is that you would have to be present during the process, since there will be a lot of "file is missing" errors
+
+To do: Transfer progress made from my laptop to my pc
+Improve this description
+
+Original description from original repo:
+
 | NAME       | Tron, an automated PC cleanup script                                                        |
 | :--------- | :------------------------------------------------------------------------------------------ |
 | AUTHOR     | vocatus on [old.reddit.com/r/TronScript](https://old.reddit.com/r/tronscript) (`vocatus.gate@gmail`) // PGP: [0x07d1490f82a211a2](http://pool.sks-keyservers.net:11371/pks/lookup?op=get&search=0x07D1490F82A211A2) |
